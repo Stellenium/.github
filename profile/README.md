@@ -82,7 +82,7 @@ Democratizing AI infrastructure for every nation and enterprise. Through our co-
 <p align="center">
   <a href="https://stellenium.com">Website</a> •
   <a href="https://discord.gg/aaNqqU2YAP">Discord</a> •
-  <a href="https://linkedin.com/company/stellenium">LinkedIn</a> •
+  <a href="https://linkedin.com/company/stellenium">LinkedIn</a>
 </p>
 
 <p align="center">
